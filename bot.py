@@ -136,4 +136,4 @@ async def on_command_error(ctx, error):
         await ctx.send(f"❌ **Error: {error}**")
 
 # Ejecutar el bot con tu token
-bot.run('TU_TOKEN_DE_DISCORD')
+bot.run('MTI3NzcyODU3NzQ0NTU2NDQ3Nw.GeU6Dp.LeCOnq1tJtuyj8_SvTp1wPjRJPHebKDkKnlPqc')
